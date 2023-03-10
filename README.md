@@ -5,6 +5,6 @@
 ----------------------------------------
 ! Break !
 
-- Reason :
-	-> Prepare for 6th sem internship first ( Web )
+- Reason :<br>
+	-> Prepare for 6th sem internship first ( Web )<br>
 	-> Then prepare for DSA so taking a break from this till end of 6th sem internship at least.
