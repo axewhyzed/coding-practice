@@ -1,10 +1,2 @@
 # Coding-Practice
-- This repository will contain all the codes while i practice DSA for interviews and campus placements. 
-- Write at least one daily !
-
-----------------------------------------
-! Break !
-
-- Reason :<br>
-	-> Prepare for 6th sem internship first ( Web )<br>
-	-> Then prepare for DSA so taking a break from this till end of 6th sem internship at least.
+- This repository will contain all the codes i solve for different coding platforms
