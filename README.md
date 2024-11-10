@@ -1,2 +1,2 @@
 # Coding-Practice
-- This repository will contain all the codes i solve for different coding platforms
+- Solving random coding questions asked in contests or hiring challenges
